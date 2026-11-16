@@ -8,7 +8,7 @@ Sobre: Este projeto é o meu portifólio profissional em forma de site
 com descrição, dados profissionais e links para outros projetos 
 desenvolvidos.
 
-Site:
+Site: https://luan-s-marin.github.io/Meu-Portifolio/
 
 Explicação: O projeto foi feito em HTML com assistencia das ferramntas CSS
 e Bootstrap contendo varias seções como a barra de navegação que fica no topo
@@ -23,6 +23,12 @@ contem 3 botões que servem para direcionar a diferentes partes da página. Este
 recurso foi implementado como a classe offcanvas, três botões diferentes e um
 script para auxiliar o funcioanmento fechando o offcanvas quando ele chega na
 parte solicitada.
+
+Fontes imagens:
+
+1- https://static.vecteezy.com/ti/fotos-gratis/t2/52712912-rustico-de-madeira-bem-vinda-placa-suspensao-em-uma-resistido-azul-parede-gratis-foto.jpg
+2- https://www.magnific.com/br/fotos-gratis/espaco-de-trabalho-com-material-de-escritorio_9658503.htm#fromView=keyword&page=1&position=2&track=ais_hybrid&query=Mesa+notebook
+3- https://www.magnific.com/br/vetores-gratis/modelo-plano-em-construcao_1584537.htm#fromView=keyword&page=1&position=27&uuid=847dc49b-a118-4511-9d21-c3fdd2f749f7&track=ais_hybrid&query=Placa+de+obras
 
 
 
